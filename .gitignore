@@ -1,0 +1,12 @@
+# contents of .gitignore
+
+# Ignore the build directory
+build/
+
+# Ignore the virtual environment directory
+venv/
+.venv/
+
+# Ignore the cache directory
+__pycache__/
+.pytest_cache/
