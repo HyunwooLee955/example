@@ -10,3 +10,6 @@ venv/
 # Ignore the cache directory
 __pycache__/
 .pytest_cache/
+
+# Ignore the documentation directory
+docs/
